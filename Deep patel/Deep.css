@@ -40,7 +40,7 @@ nav ul li{
 .firstsection{
     display: flex;
     justify-content: space-around;
-    margin: 140px 0;
+    margin: 120px 0;
     letter-spacing: normal;
     align-items: center;
 }
@@ -134,7 +134,7 @@ main hr{
 /* footer */
 footer{
     background-color: #0c0303;
-    height: 233px;
+    height: 245px;
 }
 .footer{
     display: flex;
